@@ -2,6 +2,5 @@
 
 ### Creando un conflicto en Git
 
-
-Esto es un mensaje en la rama main.
+Esto es un mensaje de prueba.
 
